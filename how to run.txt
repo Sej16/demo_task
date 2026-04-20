@@ -1,0 +1,7 @@
+cd frontend
+cd product-app
+ng serve
+
+
+cd backend
+npm rundev
