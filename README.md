@@ -17,18 +17,18 @@ demo_task/
 │── README.md
 
 🚀 How to Run
-1. Clone the repository
+1. Clone the repository :
 git clone https://github.com/your-username/demo_task.git
 
-2. Go to project folder
+2. Go to project folder :
 cd demo_task
 
-3. Run Backend
+3. Run Backend :
 cd backend
 npm install
 node server.js
 
-4. Run Frontend
+4. Run Frontend :
 cd frontend
 cd product-app
 npm install
