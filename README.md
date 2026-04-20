@@ -20,8 +20,7 @@ demo_task/
 1. Clone the repository :
 git clone https://github.com/your-username/demo_task.git
 
-2. Go to project folder :
-cd demo_task
+2. Go to project folder
 
 3. Run Backend :
 cd backend
