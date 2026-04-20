@@ -26,12 +26,13 @@ cd demo_task
 3. Run Backend
 cd backend
 npm install
-npm start
+node server.js
 
 4. Run Frontend
 cd frontend
+cd product-app
 npm install
-npm start
+ng serve
 
 ✨ Features
 - Angular-based responsive frontend
